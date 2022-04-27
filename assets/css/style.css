@@ -437,7 +437,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 
-.contact .rom {
+.contact .row {
   display: flex;
   justify-content: center;
   align-items: center;
