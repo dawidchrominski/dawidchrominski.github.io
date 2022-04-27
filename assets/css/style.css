@@ -436,6 +436,12 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+.contact .rom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .contact .info {
   width: 100%;
   background: #fff;
