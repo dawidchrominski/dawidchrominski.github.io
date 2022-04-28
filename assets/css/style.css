@@ -381,6 +381,10 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+.about .row{
+  display: flex;
+  align-items: center;
+}
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
